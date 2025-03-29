@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTCypher", "YTCypher\YTCypher.csproj", "{014E08A7-1565-4A2C-B5CB-14998EAF8577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{014E08A7-1565-4A2C-B5CB-14998EAF8577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014E08A7-1565-4A2C-B5CB-14998EAF8577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014E08A7-1565-4A2C-B5CB-14998EAF8577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014E08A7-1565-4A2C-B5CB-14998EAF8577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E9D573D-4268-4723-9195-69C58B6E2058}
+	EndGlobalSection
+EndGlobal
