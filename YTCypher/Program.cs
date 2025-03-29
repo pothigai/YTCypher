@@ -10,7 +10,7 @@ using System.Linq;
 public class YouTubeStreamDecoder
 {
     private readonly HttpClient _httpClient;
-    private const string API_KEY = "AIzaSyDlsvIcFuIzpy1ZdJK2ZlS2tIc7Bn9G9ks";
+    private const string API_KEY = "APIKEY";
     private string _playerJsUrl;
     private string _playerJsCode;
     private List<Func<char[], char[]>> _decipherOperations;
